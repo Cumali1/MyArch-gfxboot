@@ -1,6 +1,6 @@
 # LANGUAGE translations for boot loader
 # Copyright (C) 2005 SUSE Linux GmbH
-#               2013 The Antergos Project
+#               2013 The MyArch Project
 # 
 # Translators:
 # Lorenzo Porta <cybermight.gm@gmail.com>, 2013
@@ -8,7 +8,7 @@
 # skinth <skinth91@gmail.com>, 2013
 msgid ""
 msgstr ""
-"Project-Id-Version: Antergos\n"
+"Project-Id-Version: MyArch\n"
 "PO-Revision-Date: 2013-06-23 14:32+0000\n"
 "Last-Translator: skinth <skinth91@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/antergos/language/it/)\n"
@@ -395,8 +395,8 @@ msgid "Live System (GNOME)"
 msgstr "Sistema Live (GNOME)"
 
 #. txt_start
-msgid "Start Antergos Live"
-msgstr "Avvia Antergos Live"
+msgid "Start MyArch Live"
+msgstr "Avvia MyArch Live"
 
 #. txt_nonfree
 msgid "Start (non-free drivers)"
