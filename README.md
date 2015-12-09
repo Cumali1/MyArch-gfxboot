@@ -26,7 +26,7 @@ First you need to make sure you have CPIO and GFXBOOT installed
 
 Run 'make' for creating the theme,
 this will generate a folder called 'isolinux', just copy the folder into 
-the MyArch Live profile, inside boot-files, replacing completelly 
+the Arch Live profile, inside boot-files, replacing completelly 
 the folder 'isolinux' and all it's contents.
 
 Run 'make clean' for cleanning completelly the build
